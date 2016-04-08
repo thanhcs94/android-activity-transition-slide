@@ -13,3 +13,4 @@ So , how to use it : </br>
 <img src="http://4.bp.blogspot.com/-M8dKAlE9MPM/VenoYDdQgwI/AAAAAAAAWW8/53AaAs3gHzk/s640/thanhcsblogspotcode.PNG">
 </br>
 Visit my blog : http://thanhcs.blogspot.com/2015/09/solved-activity-transition-animations.html
+//edit by thanhcs.com
